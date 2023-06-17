@@ -11,7 +11,7 @@
 - [ ] Validação de tipos: ainda não consegui pesquisar e entender. O programa está quebrando quando insere um valor de tipo errado. A validação como está implementada agora ainda não dá conta destas situações. Ver Tratamento de Erros (try, catch)
 
 
-- [ ] Como melhorar a modelagem de classes e o relacionamento entre elas? A modelagem das classes ainda não está satisfatória. Vou revisitar na medida que for aprendendo mais em ANS.
+- [ ] Como melhorar a modelagem de classes e o relacionamento entre elas? A modelagem das classes está muito errada. Vou revisitar na medida que for aprendendo mais em ANS.
 
       
 - [ ] Dar nome para classes e métodos é uma ARTE que eu não domino. Como melhorar isto?
